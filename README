@@ -1,0 +1,9 @@
+Pong für Mobile and Physical Interaction WS 2012/13
+Author: Stephen Prochnow
+Martikelnummer: 310322
+
+Features: 
+ Tastenfunktionen (so wie im Aufgabenblatt)
+ Discrete Collision Detection (bei sehr hohen Geschwindigkeiten scheint der Ball trotzdem aus dem Feld zu springen)
+ optionaler KI-Gegner mit drei verschiedenen Schwierigkeitsstufen
+ Menüs (Hauptmenü/Gegnerwahl/GameOver-Screen mit ergebnisabhängigen Messages) 
